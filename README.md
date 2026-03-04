@@ -8,9 +8,11 @@
     Tracks revenue trends, age/income groups, Blue/Silver card transactions (93%), top regions (TX/NY/CA 68%).
     ​YTD: 57.5% activation, 6.06% delinquency rate.
 
+
 📊 Key Insights (Week 53)
      Revenue +28.8% WoW; males $31M vs females $26M.
     ​ Total transactions $46M, interest $8M.
+
 
 🛠 Tech Stack
 Data: SQL database (CSV imports)
